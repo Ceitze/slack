@@ -8,7 +8,7 @@ public class CreateChannel {
         System.out.println("what is conflit");
 
 
-        for (String arg : args) {
+        for (String arg : args) {//changed from inteliJ
 
             break;
         }
